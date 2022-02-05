@@ -6,11 +6,10 @@ In todays analysis I am creating a summary DataFrame of the ride-sharing data by
 
 ## Results
 
+- Rural cities have the highest average fare per ride and driver.
 - Urban cities have the highest ridership demand while rural cities have the least.
 - Urban cities have 4x+ more drivers than suburban cities.
 - Suburban cities have 6x + drivers than rural with almost 4.5x the revenue.
-- Rural cities have the highest average fare per ride and driver.
-- The summary data shows a relationship in which fare revenue is higher by city type when there is a larger ratio of drivers to rides.
 
 ## Summary
 
